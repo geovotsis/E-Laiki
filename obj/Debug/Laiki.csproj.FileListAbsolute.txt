@@ -1,0 +1,562 @@
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Laiki.dll.config
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Laiki.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Laiki.pdb
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\csc.exe
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\csc.exe.config
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\csc.rsp
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\csi.exe
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\csi.exe.config
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\csi.rsp
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.AppContext.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Console.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.IO.Compression.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Net.Http.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.ValueTuple.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\vbc.exe
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\vbc.exe.config
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\vbc.rsp
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\VBCSCompiler.exe
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Antlr3.Runtime.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\EntityFramework.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\EntityFramework.SqlServer.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Newtonsoft.Json.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Owin.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.Helpers.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.Mvc.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.Optimization.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.Razor.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.WebPages.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.WebPages.Razor.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\WebGrease.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.Helpers.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.Mvc.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.Optimization.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.Razor.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.WebPages.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\System.Web.WebPages.Razor.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Newtonsoft.Json.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Antlr3.Runtime.pdb
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\EntityFramework.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\EntityFramework.SqlServer.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nickk\source\repos\Laiki\Laiki\obj\Debug\Laiki.csprojAssemblyReference.cache
+C:\Users\nickk\source\repos\Laiki\Laiki\obj\Debug\Laiki.csproj.CoreCompileInputs.cache
+C:\Users\nickk\source\repos\Laiki\Laiki\obj\Debug\Laiki.csproj.CopyComplete
+C:\Users\nickk\source\repos\Laiki\Laiki\obj\Debug\Laiki.dll
+C:\Users\nickk\source\repos\Laiki\Laiki\obj\Debug\Laiki.pdb
+C:\Users\nickk\source\repos\Laiki\Laiki\obj\Debug\Laiki.Migrations.InitialCommit.resources
+C:\Users\nickk\source\repos\Laiki\Laiki\obj\Debug\Laiki.csproj.GenerateResource.cache
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Laiki.dll.config
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Laiki.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Laiki.pdb
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\csc.exe
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\csc.exe.config
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\csc.rsp
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\csi.exe
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\csi.exe.config
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\csi.rsp
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.AppContext.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Console.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.IO.Compression.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Net.Http.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.ValueTuple.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\vbc.exe
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\vbc.exe.config
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\vbc.rsp
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\VBCSCompiler.exe
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Antlr3.Runtime.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\EntityFramework.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\EntityFramework.SqlServer.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Newtonsoft.Json.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Owin.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.Helpers.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.Mvc.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.Optimization.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.Razor.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.WebPages.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.WebPages.Razor.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\WebGrease.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.Helpers.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.Mvc.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.Optimization.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.Razor.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.WebPages.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\System.Web.WebPages.Razor.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Newtonsoft.Json.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Antlr3.Runtime.pdb
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\EntityFramework.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\EntityFramework.SqlServer.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\obj\Debug\Laiki.csprojAssemblyReference.cache
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\obj\Debug\Laiki.Migrations.InitialCommit.resources
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\obj\Debug\Laiki.csproj.GenerateResource.cache
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\obj\Debug\Laiki.csproj.CoreCompileInputs.cache
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\obj\Debug\Laiki.csproj.CopyComplete
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\obj\Debug\Laiki.dll
+C:\Users\Giwrgos\source\repos\Laiki\Laiki\obj\Debug\Laiki.pdb
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Laiki.dll.config
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Laiki.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Laiki.pdb
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\csc.exe
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\csc.exe.config
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\csc.rsp
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\csi.exe
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\csi.exe.config
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\csi.rsp
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.AppContext.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Console.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.Compression.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Net.Http.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Net.Sockets.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.ValueTuple.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.XPath.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\vbc.exe
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\vbc.exe.config
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\vbc.rsp
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\VBCSCompiler.exe
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Antlr3.Runtime.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\EntityFramework.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\EntityFramework.SqlServer.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Newtonsoft.Json.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Owin.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.Helpers.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.Mvc.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.Optimization.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.Razor.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Deployment.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Razor.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\WebGrease.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.Helpers.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.Mvc.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.Optimization.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.Razor.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Deployment.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Razor.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Newtonsoft.Json.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Antlr3.Runtime.pdb
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\EntityFramework.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\EntityFramework.SqlServer.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csprojAssemblyReference.cache
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.Migrations.InitialCommit.resources
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csproj.GenerateResource.cache
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csproj.CoreCompileInputs.cache
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csproj.CopyComplete
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.pdb
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\PagedList.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\PagedList.Mvc.dll
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\PagedList.xml
+C:\Users\krompora\Downloads\Laiki - 1\Laiki\Laiki\bin\PagedList.Mvc.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Laiki.dll.config
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Laiki.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Laiki.pdb
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\csc.exe
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\csc.exe.config
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\csc.rsp
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\csi.exe
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\csi.exe.config
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\csi.rsp
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.AppContext.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Console.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.Compression.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Net.Http.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.ValueTuple.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\vbc.exe
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\vbc.exe.config
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\vbc.rsp
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\VBCSCompiler.exe
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Antlr3.Runtime.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\EntityFramework.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\EntityFramework.SqlServer.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Newtonsoft.Json.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Owin.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\PagedList.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\PagedList.Mvc.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.Helpers.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.Mvc.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.Optimization.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.Razor.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Razor.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\WebGrease.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\PagedList.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\PagedList.Mvc.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.Helpers.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.Mvc.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.Optimization.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.Razor.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Razor.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Newtonsoft.Json.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Antlr3.Runtime.pdb
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\EntityFramework.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\EntityFramework.SqlServer.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csprojAssemblyReference.cache
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.Migrations.InitialCommit.resources
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csproj.GenerateResource.cache
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csproj.CoreCompileInputs.cache
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csproj.CopyComplete
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.dll
+C:\Users\Giwrgos\Desktop\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.pdb
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Laiki.dll.config
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Laiki.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Laiki.pdb
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\csc.exe
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\csc.exe.config
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\csc.rsp
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\csi.exe
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\csi.exe.config
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\csi.rsp
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.AppContext.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Console.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.Compression.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Net.Http.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.ValueTuple.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\vbc.exe
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\vbc.exe.config
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\vbc.rsp
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\VBCSCompiler.exe
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Antlr3.Runtime.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\EntityFramework.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\EntityFramework.SqlServer.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Newtonsoft.Json.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Owin.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\PagedList.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\PagedList.Mvc.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.Helpers.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.Mvc.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.Optimization.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.Razor.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Razor.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\WebGrease.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\PagedList.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\PagedList.Mvc.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.Helpers.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.Mvc.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.Optimization.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.Razor.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\System.Web.WebPages.Razor.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Newtonsoft.Json.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Antlr3.Runtime.pdb
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\EntityFramework.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\EntityFramework.SqlServer.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csprojAssemblyReference.cache
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.Migrations.InitialCommit.resources
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csproj.GenerateResource.cache
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csproj.CoreCompileInputs.cache
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.csproj.CopyComplete
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.dll
+C:\Users\Giwrgos\source\repos\Laiki - 1\Laiki\Laiki\obj\Debug\Laiki.pdb
